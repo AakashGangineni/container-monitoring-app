@@ -8,4 +8,8 @@ This project helps monitor system performance using containerized services.
 - System monitoring concepts
 ## Project Objective
 To understand how system monitoring works in containerized environments.
+## Features
+- CPU usage monitoring
+- Memory usage tracking
+- Container-based deployment
 
