@@ -6,4 +6,6 @@ This project helps monitor system performance using containerized services.
 - Docker
 - Basic Linux commands
 - System monitoring concepts
+## Project Objective
+To understand how system monitoring works in containerized environments.
 
