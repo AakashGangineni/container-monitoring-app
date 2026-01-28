@@ -12,4 +12,7 @@ To understand how system monitoring works in containerized environments.
 - CPU usage monitoring
 - Memory usage tracking
 - Container-based deployment
+## Learning Outcome
+- Understood Docker basics
+- Learned importance of system monitoring
 
