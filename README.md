@@ -31,3 +31,7 @@ To understand how system monitoring works in containerized environments.
 - Used docker ps and docker inspect
 - Displayed container status (running, exited, unhealthy)
 - Added basic error handling
+## feat: add logging mechanism for system metrics
+- Created log file for CPU, memory, disk stats
+- Implemented timestamped entries
+- Enabled persistent monitoring data storage
