@@ -51,3 +51,7 @@ To understand how system monitoring works in containerized environments.
 - Used slim base image
 - Removed unnecessary dependencies
 - Reduced build size
+## feat: add docker-compose configuration
+- Enabled multi-container setup
+- Simplified deployment
+- Defined service dependencies
