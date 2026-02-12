@@ -71,3 +71,6 @@ To understand how system monitoring works in containerized environments.
 - Created sample Grafana JSON dashboard
 - Connected Prometheus data source
 - Professional monitoring setup
+## fix: handle container crash edge cases
+- Added exception handling
+- Prevented monitoring app crash on container failure
