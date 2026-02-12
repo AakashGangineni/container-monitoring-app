@@ -35,3 +35,7 @@ To understand how system monitoring works in containerized environments.
 - Created log file for CPU, memory, disk stats
 - Implemented timestamped entries
 - Enabled persistent monitoring data storage
+## feat: build simple web dashboard using Flask
+- Created backend server for metrics API
+- Displayed system stats in browser
+- Improved usability
