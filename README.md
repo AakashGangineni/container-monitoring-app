@@ -59,3 +59,7 @@ To understand how system monitoring works in containerized environments.
 - Added configurable refresh rate
 - Enabled flexible port settings
 - Improved production readiness
+## feat: integrate Prometheus metrics exporter
+- Exposed metrics endpoint
+- Enabled external monitoring integration
+- Prepared for scalable deployments
