@@ -19,3 +19,7 @@ To understand how system monitoring works in containerized environments.
 - Implemented disk usage tracking using Linux commands (df -h)
 - Parsed and displayed disk statistics in the console
 - Improved overall system coverage
+## feat: integrate real-time CPU and memory stats using /proc
+- Used /proc/stat and /proc/meminfo
+- Calculated CPU usage percentage dynamically
+- Improved monitoring accuracy
