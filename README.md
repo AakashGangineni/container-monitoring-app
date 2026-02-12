@@ -43,3 +43,7 @@ To understand how system monitoring works in containerized environments.
 - Implemented JavaScript auto-refresh
 - Real-time monitoring experience
 - Cleaner UI updates
+## style: improve dashboard UI with basic CSS styling
+- Better layout
+- Organized metric cards
+- Improved readability
