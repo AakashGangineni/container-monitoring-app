@@ -67,3 +67,7 @@ To understand how system monitoring works in containerized environments.
 - Configurable threshold values
 - Console-based alert notifications
 - Foundation for email/SMS alerts
+## feat: integrate Grafana dashboard support
+- Created sample Grafana JSON dashboard
+- Connected Prometheus data source
+- Professional monitoring setup
