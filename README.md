@@ -15,4 +15,7 @@ To understand how system monitoring works in containerized environments.
 ## Learning Outcome
 - Understood Docker basics
 - Learned importance of system monitoring
-
+## feat: add container health check functionality
+- Used docker ps and docker inspect
+- Displayed container status (running, exited, unhealthy)
+- Added basic error handling
