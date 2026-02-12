@@ -85,3 +85,7 @@ To understand how system monitoring works in containerized environments.
 - Added setup instructions
 - Added screenshots
 - Explained monitoring workflow
+## release: version 1.0 stable container monitoring app
+- Production-ready build
+- Tagged release
+- Final documentation cleanup
