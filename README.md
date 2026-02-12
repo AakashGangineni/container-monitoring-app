@@ -55,3 +55,7 @@ To understand how system monitoring works in containerized environments.
 - Enabled multi-container setup
 - Simplified deployment
 - Defined service dependencies
+## feat: enable environment variable configuration
+- Added configurable refresh rate
+- Enabled flexible port settings
+- Improved production readiness
