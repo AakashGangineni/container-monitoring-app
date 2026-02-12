@@ -23,3 +23,7 @@ To understand how system monitoring works in containerized environments.
 - Used /proc/stat and /proc/meminfo
 - Calculated CPU usage percentage dynamically
 - Improved monitoring accuracy
+## refactor: optimize system metrics collection script
+- Reduced redundant command calls
+- Improved performance and reduced overhead
+- Cleaned up function structure
