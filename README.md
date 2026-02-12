@@ -47,3 +47,7 @@ To understand how system monitoring works in containerized environments.
 - Better layout
 - Organized metric cards
 - Improved readability
+## chore: optimize Dockerfile for smaller image size
+- Used slim base image
+- Removed unnecessary dependencies
+- Reduced build size
