@@ -81,3 +81,7 @@ To understand how system monitoring works in containerized environments.
 - Tested CPU parsing logic
 - Tested memory calculation
 - Increased reliability
+## docs: update README with architecture diagram and usage steps
+- Added setup instructions
+- Added screenshots
+- Explained monitoring workflow
