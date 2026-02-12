@@ -27,3 +27,7 @@ To understand how system monitoring works in containerized environments.
 - Reduced redundant command calls
 - Improved performance and reduced overhead
 - Cleaned up function structure
+## feat: add container health check functionality
+- Used docker ps and docker inspect
+- Displayed container status (running, exited, unhealthy)
+- Added basic error handling
