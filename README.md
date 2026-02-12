@@ -77,3 +77,7 @@ To understand how system monitoring works in containerized environments.
 ## feat: add basic authentication to dashboard
 - Implemented login protection
 - Improved security
+## test: add basic unit tests for metrics module
+- Tested CPU parsing logic
+- Tested memory calculation
+- Increased reliability
