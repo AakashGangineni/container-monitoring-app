@@ -63,3 +63,7 @@ To understand how system monitoring works in containerized environments.
 - Exposed metrics endpoint
 - Enabled external monitoring integration
 - Prepared for scalable deployments
+## feat: add alert system for high CPU/memory usage
+- Configurable threshold values
+- Console-based alert notifications
+- Foundation for email/SMS alerts
