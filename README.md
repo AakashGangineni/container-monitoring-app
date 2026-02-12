@@ -74,3 +74,6 @@ To understand how system monitoring works in containerized environments.
 ## fix: handle container crash edge cases
 - Added exception handling
 - Prevented monitoring app crash on container failure
+## feat: add basic authentication to dashboard
+- Implemented login protection
+- Improved security
