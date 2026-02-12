@@ -39,3 +39,7 @@ To understand how system monitoring works in containerized environments.
 - Created backend server for metrics API
 - Displayed system stats in browser
 - Improved usability
+## feat: add auto-refresh dashboard every 5 seconds
+- Implemented JavaScript auto-refresh
+- Real-time monitoring experience
+- Cleaner UI updates
